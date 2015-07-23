@@ -12,3 +12,17 @@ This is to enable the update to be consistent.
 
 How can you use the commands git log and git diff to view the history of files?
 type git log to see the list of commits and git diff to see the differences
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+when many changes has been made on a project that others are also working on.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+To avoid unneccesary commit at frequent intervals
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks is us
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Use to check the changes that causes the conflict and rectify the same
