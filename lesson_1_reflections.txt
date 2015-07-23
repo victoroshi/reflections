@@ -26,3 +26,6 @@ Forks is us
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Use to check the changes that causes the conflict and rectify the same
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder
+It will be ver difficult as my changes can't be seen by other collaborate for modification or acceptance
